@@ -51,15 +51,18 @@ Application Specification
 Packages: 
 
 1.	com.usermanagement.application – For classes for the logic.
+
 Classes: 
 •	ReadXML.java
 •	UserDetail.java – POJO class
 •	UserManagementConsole.java
 2.	com.usermanagement.dbmodel – For Database connection and operations.
+
 Classes:
 •	DBConnection.java
 •	DBOperations.java
 3.	com.usermanagement.tester – Junit class.
+
 Classes:
 •	UserManagementJunit.java
 
