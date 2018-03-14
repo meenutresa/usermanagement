@@ -1,0 +1,5 @@
+com\usermanagement\application\UserManagementConsole.class
+com\usermanagement\dbmodel\DBOperations.class
+com\usermanagement\application\UserDetail.class
+com\usermanagement\application\ReadXML.class
+com\usermanagement\dbmodel\DBConnection.class
